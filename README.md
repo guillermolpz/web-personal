@@ -7,14 +7,9 @@ _Proyecto sencillo en flask, en la cual se puede ver el manejo de Blueprint para
 _Los requisitos son los siguiente_
 * Crear un entorno virtual de Python e iniciarlo
 
-_Una vez que tenemos en entrono iniciado procedemos a instalar las librerías necesarias que son las siguientes._
+_Intalamos las librerias necesarias desde el archivo requirements._
 ```
-pip install Flask
-pip install autopep8
-pip install Flask-SQLAlchemy
-pip install pylint
-pip install PyMySQL
-pip install SQLAlchemy
+pip install -r requirements.txt
 ```
 
 ## Ejecución de la aplicación
